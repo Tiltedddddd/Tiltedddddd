@@ -20,10 +20,11 @@
 
 ## What I'm About
 
+I have a strong belief that all websites need to look good before anything.
 I love learning beyond the classroom. Whether it's building a Telegram bot to filter stock news, making my girlfriend a cuter product stocktake website, or creating a mall directory from scratch — I find joy in creating useful, user-friendly things with great UI/UX.
 
 - 💻 Projects: [StockScoop](https://github.com/Tiltedddddd/stockScoop), [SingSplore](https://github.com/Tiltedddddd/SingSplore), [IkaStockCheck](https://github.com/Tiltedddddd/ikaStockCheck)
-- I'm creative thinker who loves ideating and developing 
+- I'm a creative thinker who loves ideating and developing 
 - I enjoy and I'm constantly learning my next step will be stepping deeper into writing clean code and exploring backend dev
 
 ---
