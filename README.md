@@ -1,12 +1,13 @@
 # Hi, I'm Darren Kee
 
-🎓 Year 2 Business and Financial Technology student at Nanyang Polytechnic  
-💡 Passionate about building projects that solve real-world problems  
-📈 Aspiring developer blending tech, investing, and design
+National Billing System | Systems Analyst Intern @ Synapxe | National Programmes Dept
+Year 3 Business and Financial Technology student at Nanyang Polytechnic  
+Passionate about building projects that solve real-world problems  
+Aspiring developer blending tech, investing, and design
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,12 +19,12 @@
 
 ---
 
-## What I'm About
+## About me
 
 I have a strong belief that all websites need to look good before anything.
 I love learning beyond the classroom. Whether it's building a Telegram bot to filter stock news, making my girlfriend a cuter product stocktake website, or creating a mall directory from scratch — I find joy in creating useful, user-friendly things with great UI/UX.
 
-- 💻 Projects: [StockScoop](https://github.com/Tiltedddddd/stockScoop), [SingSplore](https://github.com/Tiltedddddd/SingSplore), [IkaStockCheck](https://github.com/Tiltedddddd/ikaStockCheck)
+- Projects: [StockScoop](https://github.com/Tiltedddddd/stockScoop), [SingSplore](https://github.com/Tiltedddddd/SingSplore), [IkaStockCheck](https://github.com/Tiltedddddd/ikaStockCheck)
 - I'm a creative thinker who loves ideating and developing 
 - I enjoy and I'm constantly learning my next step will be stepping deeper into writing clean code and exploring backend dev
 
